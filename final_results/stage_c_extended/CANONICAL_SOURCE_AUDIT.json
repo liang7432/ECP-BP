@@ -1,0 +1,105 @@
+{
+  "created_at": "2026-07-21T08:41:55+08:00",
+  "source_root": "D:\\Users\\mamin\\Desktop\\RCG-ED\\00_SHARED\\methods\\ECP_RCG_ED\\src",
+  "raw_tree_sha256": "b5c2dd08fea909c4244ff2088efe9b1d0040602350633a9998e81fd71d27f2f6",
+  "canonical_python_source_sha256": "8a04cd114c2bf4957364889c321a6eac655c60365965ca6a7115eef13f07f9e1",
+  "canonical_rule": "include only .py files; exclude __pycache__, .pyc, logs and runtime-generated files",
+  "python_file_count": 19,
+  "python_files": [
+    {
+      "relative_path": "carecg_stress/__init__.py",
+      "size_bytes": 544,
+      "sha256": "53c4624304a509589c8d9764bcd51a494f5f5d720ca4628b1fe7b95cc7b3fae9"
+    },
+    {
+      "relative_path": "carecg_stress/branch_price.py",
+      "size_bytes": 44098,
+      "sha256": "33b11e17833a94bfa461b0ca177182d1769616b95d999c9b2615015071434113"
+    },
+    {
+      "relative_path": "carecg_stress/certificate.py",
+      "size_bytes": 2662,
+      "sha256": "733340e603bada556fe40b467ae8e3188a32d841d2956ad36a36b9be2b88ab55"
+    },
+    {
+      "relative_path": "carecg_stress/common.py",
+      "size_bytes": 12357,
+      "sha256": "ebfeb2885f149c6e72c6890b38c9e6a162fb61adeca886a7ef3f28b8afb365a2"
+    },
+    {
+      "relative_path": "carecg_stress/compact_gurobi.py",
+      "size_bytes": 24470,
+      "sha256": "ede9e2f5e1e88a685a6fa277af10c0d5298ad157cca711bc24f6c6d073963836"
+    },
+    {
+      "relative_path": "carecg_stress/exact_bounds.py",
+      "size_bytes": 780,
+      "sha256": "ae60574ca09f534456b4c988f7762e73978975814a0ae9341806174a1b169b63"
+    },
+    {
+      "relative_path": "carecg_stress/experiment_runner.py",
+      "size_bytes": 6573,
+      "sha256": "4df0476255b4fe974dc74962fb2b2b4128b993cdd7ae4b794dff1a74dbd893f8"
+    },
+    {
+      "relative_path": "carecg_stress/filtered_compact_exact.py",
+      "size_bytes": 22909,
+      "sha256": "480c3b980d6a4bdb5877bad6715c98162bb3365d9b3d14c79ae8694c13390d37"
+    },
+    {
+      "relative_path": "carecg_stress/instance_generator.py",
+      "size_bytes": 30109,
+      "sha256": "b1b250c1fca0695b97ebaf69ce5b31709b71877276611bd7128cbacdb3443da9"
+    },
+    {
+      "relative_path": "carecg_stress/package_verifier.py",
+      "size_bytes": 10592,
+      "sha256": "d1580fb97ad1c801b3ec544e8c5dd6c0773453ef970cc8bed28de668eee02f0f"
+    },
+    {
+      "relative_path": "carecg_stress/pricing.py",
+      "size_bytes": 24093,
+      "sha256": "14318cc48dc6d55d979807f675a6eb97486b3f645e1cd1aaa5e29c54e2759005"
+    },
+    {
+      "relative_path": "carecg_stress/reduced_cost_enumeration.py",
+      "size_bytes": 51316,
+      "sha256": "ff494355d10ea6433f7a0945a898f77a34489877b035e8e4e7c3ccb3e5b2a00c"
+    },
+    {
+      "relative_path": "carecg_stress/result_io.py",
+      "size_bytes": 5365,
+      "sha256": "88ae5e9daf2d1734379b6578f143d44691187e560b4d5583a887d1c6f8350687"
+    },
+    {
+      "relative_path": "carecg_stress/smoke_factory.py",
+      "size_bytes": 6611,
+      "sha256": "cf3d8b0a76e4d74d961bf465e0ed0e821b86eb94884d759d74f58e689f25f34b"
+    },
+    {
+      "relative_path": "carecg_stress/solver.py",
+      "size_bytes": 74438,
+      "sha256": "bdea351aeb883748867a9de7e3b3453dc754faff0f71ae52268b6759b6c8ae59"
+    },
+    {
+      "relative_path": "carecg_stress/static_rp.py",
+      "size_bytes": 5055,
+      "sha256": "e86304f904e1900ee9276275f21f747575428861be79f2adbfbe5750ca6d9816"
+    },
+    {
+      "relative_path": "carecg_stress/summarize.py",
+      "size_bytes": 25480,
+      "sha256": "8687d1b01ac38069711192fa2ebc18ca892d4253be7b85f1d3198110097ca22b"
+    },
+    {
+      "relative_path": "carecg_stress/validator.py",
+      "size_bytes": 4159,
+      "sha256": "6fa21eb7ccd0cb0ffce43a148d74dfe23b29519a31b29cd01f42f4f8b66f8fbe"
+    },
+    {
+      "relative_path": "carecg_stress/worker.py",
+      "size_bytes": 22584,
+      "sha256": "8f323437335b92c87c0ee5c3454bcf5a2745f823343c162efc4d730b93f240a6"
+    }
+  ]
+}

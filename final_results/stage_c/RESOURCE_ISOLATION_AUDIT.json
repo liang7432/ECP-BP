@@ -1,0 +1,17 @@
+{
+  "status_file": "D:\\Users\\mamin\\Desktop\\RCG-ED\\03_A0_A2\\RUN_STATUS.json",
+  "audit_file": "D:\\Users\\mamin\\Desktop\\RCG-ED\\03_A0_A2\\A0_A2_FINAL_AUDIT.json",
+  "status": "COMPLETED",
+  "run_record_count": 72,
+  "A0_full_pass_count": 20,
+  "A2_full_pass_count": 11,
+  "process_error_count": 0,
+  "certificate_count": 71,
+  "validation_pass_count": 72,
+  "wait_enabled": true,
+  "wait_seconds": 0.0003538999881129712,
+  "formal_overlap_with_stage_03": false,
+  "stage_03_gate_definition": "completed_72_records_and_72_validations_with_zero_process_errors",
+  "A2_full_certification_required_for_stage_c": false,
+  "reason": "Stage C is computationally independent of whether one A2 instance completed its global certificate within the 600-second cap."
+}

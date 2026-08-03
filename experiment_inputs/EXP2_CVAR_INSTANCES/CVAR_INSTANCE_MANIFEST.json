@@ -1,0 +1,18 @@
+{
+  "generated": [
+    "GD-4-250-2_REVISED_DERIVED",
+    "GD-4-250-5_REVISED_DERIVED",
+    "GD-4-250-9_REVISED_DERIVED",
+    "GD-4-500-1_REVISED_DERIVED",
+    "GD-4-500-5_REVISED_DERIVED",
+    "GD-4-500-9_REVISED_DERIVED",
+    "GD-4-750-2_REVISED_DERIVED",
+    "GD-4-750-7_REVISED_DERIVED",
+    "GD-4-750-8_REVISED_DERIVED"
+  ],
+  "scenario_count": 100,
+  "lambda_risk": 1.0,
+  "beta": 0.95,
+  "seed": 20260725,
+  "risk_panel": "D:\\Users\\mamin\\Desktop\\RCG-ED\\04_STAGE_C\\generation_inputs\\source_master_calibration\\calibration\\enterprise_risk_panel.csv"
+}

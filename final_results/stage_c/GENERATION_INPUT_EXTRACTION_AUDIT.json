@@ -1,0 +1,10 @@
+{
+  "extracted_at": "2026-07-21T04:11:56+08:00",
+  "legacy_zip": "D:\\Users\\mamin\\Desktop\\RCG-ED\\00_SHARED\\provenance_archive\\BASELINE_EXPERIMENT_PROJECT_AND_PROTOCOLS.zip",
+  "legacy_zip_sha256": "30b0628ee7ae83d02981f7cba225a29f9c9a3d73f0733b85333b5f9511c3feea",
+  "source_master_file_count": 26,
+  "benchmark_file_count": 112,
+  "main_spec_sha256": "a84c4a4037b9f625e26c0260b39df1480d30ade1e5cc22c9bbdc43bd516e85c2",
+  "replication_spec_sha256": "f2e0bcf3d72a2705a2bfc51bf0c54a1ed83aac3e472e2fdab13a7a14fad36e40",
+  "frozen_model_sha256": "751375af6b490a9bc67b1742f40d156ba1e7b2e6d7619572c0deed69916ce87a"
+}
