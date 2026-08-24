@@ -1,0 +1,23 @@
+{
+  "instance_count": 1,
+  "factorial_expected_count": 1,
+  "source_split": "calibration",
+  "eligible_source_task_count": 6535,
+  "frozen_task_count": 400,
+  "frozen_overlap_count": 0,
+  "development_excluded_task_count": 0,
+  "development_excluded_overlap_count": 0,
+  "heldout_real_oos_consumed": false,
+  "solver_results_read_during_generation": false,
+  "source_hashes": {
+    "master_data/task_master.csv": "7a3c6bf33c5ef926ece89e65e7d66c0cda1fc3d5d75fa4753b914e69dbd9ebe8",
+    "master_data/vehicle_master.csv": "6bc0566ecb5495945f2962d99a229a59159d3017c1533af51f3734b312c09563",
+    "master_data/node_pair_shortest_distance.csv": "771f5c67d96beffcaab4996f2d7b84166ac813bbaeed1b918a54d96585b8f696",
+    "master_data/observed_od_distance_time.csv": "63484c8071d458cd61cc86d86679438e487f9ee98a90bd752c80e3e469b29cfa",
+    "calibration/task_cost_estimates.csv": "2fd6545edcf6c3870b11741124d99fa3f0c09d617932e1d369da5749b6763157",
+    "calibration/vehicle_risk_scores.csv": "7fbfb8ade551ebd8e068c0345f887a4eee6940f773dd5ecd7c8de38379ecdb22",
+    "calibration/self_cost_model_data.csv": "0600cb41882987f00b24ed02e237bfe222507aa5f47f0616f9e4a890a29cb258"
+  },
+  "frozen_model_sha256": "751375af6b490a9bc67b1742f40d156ba1e7b2e6d7619572c0deed69916ce87a",
+  "excluded_development_task_ids_sha256": "40b25b1f8d8fe0b7d4d60b6b802cded6ac0b3c691820ed011bc781f52005bc1d"
+}
