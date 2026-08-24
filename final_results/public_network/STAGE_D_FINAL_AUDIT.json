@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-07-20T21:36:21+08:00",
+  "method": "ECP-RCF",
+  "formal_instance_count": 27,
+  "development_instance_count": 4,
+  "heldout_instance_count": 23,
+  "heldout_complete_record_count": 23,
+  "heldout_success_count": 23,
+  "heldout_certificate_count": 23,
+  "heldout_validation_pass_count": 23,
+  "heldout_reference_match_count": 20,
+  "heldout_process_error_count": 0,
+  "all_27_records_available": true,
+  "instance_hashes_unchanged": true,
+  "source_sha256": "e6832f4e4b5c7005479e290760a56a0b9aa6b4a524c5effab30f9d6bde3a4ab6",
+  "threads": 1,
+  "time_limits_seconds": {
+    "250": 600.0,
+    "500": 1800.0,
+    "750": 3600.0
+  },
+  "compact_gurobi_rerun": false,
+  "standard_bp_rerun": false,
+  "original_rcg_ed_rerun": false,
+  "development_results_reused": true,
+  "paper_claim_automatically_approved": false,
+  "note": "结果完成后须根据23个held-out实例的认证率、验证率和公平时间比较决定论文表述。"
+}

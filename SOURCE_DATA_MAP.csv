@@ -1,0 +1,10 @@
+manuscript_item,evidence_scope,input_location,result_location,public_status
+Table 3,"27 public-network-derived instances, including 23 held out",experiment_inputs/public_network_derived,final_results/public_network/STAGE_D_27_COMPARISON.csv,public
+Table 4,"20 exact and 12 held-out benchmarks","experiment_inputs/exact_benchmarks; experiment_inputs/heldout_benchmarks","final_results/exact_and_heldout/A0_FINAL_COMPARISON.csv; final_results/exact_and_heldout/A2_FINAL_COMPARISON.csv",public
+Figure 2 and matched ECP ablation,"27 matched OFF-ON pairs",experiment_inputs/public_network_derived,final_results/ecp_ablation/ABLATION_PAIRED_RESULTS.csv,public
+Figure 3 and Table S5,"126 structural instances",experiment_inputs/structural_factorial_instances,final_results/structural_factorial/STAGE_C_ECP_VS_GUROBI.csv,public
+Supplementary extended certification,"four diagnostic 3600-second runs",experiment_inputs/structural_factorial_instances,final_results/structural_extended/STAGE_C_04B_600S_VS_3600S.csv,public
+Supplementary alternative configurations,"three alternative column-generation configurations",experiment_inputs/public_network_derived,final_results/compact_exports/baseline_comparison_compact.csv,public
+Supplementary stochastic consistency check,"fixed 100-scenario model-ready instances",experiment_inputs/stochastic_cvar_instances,final_results/compact_exports/cvar_ablation_compact.csv,public
+Supplementary equivalence-profile diagnostic,"four N=250 profile variants",experiment_inputs/equivalence_profile_diagnostic,final_results/compact_exports/equivalence_degree_compact.csv,public
+Enterprise policy and sensitivity evidence,"private operational evidence",not included,not included,restricted

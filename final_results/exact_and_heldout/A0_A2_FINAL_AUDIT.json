@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-07-21T04:31:46+08:00",
+  "method": "ECP-RCF",
+  "planned_run_count": 72,
+  "run_record_count": 72,
+  "complete_run_count": 72,
+  "certificate_count": 71,
+  "validation_pass_count": 72,
+  "process_error_count": 0,
+  "time_limit_count": 0,
+  "A0_full_pass_count": 20,
+  "A2_full_pass_count": 11,
+  "a0_compact_over_ecp_geomean": 1.7509922868675905,
+  "a0_rcg_over_ecp_geomean": 1.082634411361757,
+  "a2_compact_over_ecp_geomean": 4.434435894910835,
+  "a2_rcg_over_ecp_geomean": 1.2403804230702955,
+  "source_sha256": "b5c2dd08fea909c4244ff2088efe9b1d0040602350633a9998e81fd71d27f2f6",
+  "baseline_methods_rerun": false,
+  "formal_overlap_with_ablation": false,
+  "paper_claim_automatically_approved": false
+}

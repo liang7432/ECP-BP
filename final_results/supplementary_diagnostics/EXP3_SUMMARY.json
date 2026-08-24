@@ -1,0 +1,30 @@
+[
+  {
+    "variant": "1_profile",
+    "wall_time": 6.350356899987673,
+    "n_profiles": 1,
+    "objective": 43657.65000000001,
+    "certified": true
+  },
+  {
+    "variant": "4_profiles",
+    "wall_time": 8.000361600003089,
+    "n_profiles": 4,
+    "objective": 43657.65000000001,
+    "certified": true
+  },
+  {
+    "variant": "16_profiles",
+    "wall_time": 13.541690400001244,
+    "n_profiles": 16,
+    "objective": 43657.65000000001,
+    "certified": true
+  },
+  {
+    "variant": "full_profiles",
+    "wall_time": 6.298537499998929,
+    "n_profiles": 68,
+    "objective": 43657.65000000001,
+    "certified": true
+  }
+]
