@@ -1,9 +1,0 @@
-{
-  "created_at": "2026-07-21T06:29:42+08:00",
-  "source_file": "D:\\Users\\mamin\\Desktop\\RCG-ED\\00_SHARED\\frozen_results\\Stage_C\\Stage_C\\ALL_RUNS.csv",
-  "source_sha256": "57bc4c8139d6289f97154cfa340d92f38fddee11bc288bf2ee1999d41a639142",
-  "instance_count": 126,
-  "compact_gurobi_rerun": false,
-  "original_rcg_ed_rerun": false,
-  "purpose_of_original_rcg_results": "certified-objective cross-check only"
-}

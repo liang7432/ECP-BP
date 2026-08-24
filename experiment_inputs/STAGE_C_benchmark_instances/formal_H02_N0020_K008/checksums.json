@@ -1,9 +1,0 @@
-{
-  "tasks.csv": "cb3b7a815a8bf0b77ad62d8cc55d5a5607ffe7e2826ac14876a780c9f6820ff7",
-  "vehicles.csv": "bf4de2859669d7adb232ccc379de8d6e9379706860fd5e7f42eac5dc0a6e5158",
-  "compatibility.csv": "559fc5f5d870ea51b238b9676e33789ab6b67f6e621a8b50696e5be88deaa739",
-  "node_pairs.csv": "fc0e3efc5c4ad2265a4945b5ea9a5ce492e9bfb93753e0ea0c20a6f7069fc16d",
-  "scenarios.csv": "f900bbd853cccafa81f7b29bab6dac1fc4c3b349d69cbbd94409cc39edf3ad33",
-  "task_scenario_loss.csv": "bbaf3c9603b70ad7fe9a5e969cc3738df3c0d4a0bc3dca7277d9c69c05052bb9",
-  "manifest.json": "fd96184b36bdec1cfa77af2396b2132d556779347b9020642bd6d02020e61253"
-}
