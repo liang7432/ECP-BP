@@ -1,8 +1,11 @@
 # ECP-BP data release
 
-This repository is the data-only replication package for the manuscript *Risk-Averse Fleet Coordination under Driving-Behavior-Based Fleet Eligibility: Formulations and an Exact Solution Method*.
+This repository is the data-only replication package for the manuscript
+Risk-Averse Fleet Coordination under Driving-Behavior-Based Safety Admission:
+Formulation and Exact Solution Method.
 
-ECP-BP denotes the exact focal method evaluated in the accompanying study.
+ECP-BP denotes the Equivalence-Class Pricing-Based Branch-and-Price Algorithm,
+the exact solution method developed and evaluated in the accompanying study.
 
 ## Included datasets
 
