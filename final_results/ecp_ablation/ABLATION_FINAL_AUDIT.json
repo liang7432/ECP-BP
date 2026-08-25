@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-07-21T02:34:23+08:00",
-  "method": "ECP-RCF",
+  "method": "ECP-BP",
   "experiment": "equivalence-class pricing ON/OFF",
   "selected_instance_count": 9,
   "repeat_count": 3,

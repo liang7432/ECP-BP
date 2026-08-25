@@ -1,8 +1,8 @@
-# ECP-RCF data release
+# ECP-BP data release
 
 This repository is the data-only replication package for the manuscript *Risk-Averse Fleet Coordination under Driving-Behavior-Based Fleet Eligibility: Formulations and an Exact Solution Method*.
 
-ECP-RCF denotes an exact method based on equivalence-class pricing and reduced-cost filtering.
+ECP-BP denotes the exact focal method evaluated in the accompanying study.
 
 ## Included datasets
 
