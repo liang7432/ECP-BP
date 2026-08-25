@@ -1,12 +1,15 @@
 # ECP-BP data release
 
-This repository is the data-only replication package for the manuscript *Risk-Averse Fleet Coordination under Driving-Behavior-Based Fleet Eligibility: Formulations and an Exact Solution Method*.
+This repository is the data-only replication package for the manuscript
+*Risk-Averse Fleet Coordination under Driving-Behavior-Based Safety Admission:
+Formulation and Exact Solution Method.*
 
-The focal method is the **Equivalence-Class Pricing-Based Branch-and-Price Algorithm (ECP-BP)**.
+The focal method is the **Equivalence-Class Pricing-Based Branch-and-Price Algorithm (ECP-BP)**,
+the exact solution method developed and evaluated in the accompanying study.
 
 ## Included datasets
 
-- `experiment_inputs/exact_benchmarks/`: 20 exact benchmark instances, comprising 14 formal benchmark instances and 6 additional CARE validation instances.
+* `experiment_inputs/exact_benchmarks/`: 20 exact benchmark instances used for objective agreement and exact-method comparison.
 - `experiment_inputs/heldout_benchmarks/`: 12 held-out benchmark instances.
 - `experiment_inputs/public_network_derived/`: 27 public-network-derived instances, including the 23 held-out instances used in the held-out summaries.
 - `experiment_inputs/structural_factorial_instances/`: 108 factorial structural instances and 18 independent-seed replications, for 126 instances in total.

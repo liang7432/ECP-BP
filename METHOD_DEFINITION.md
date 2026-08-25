@@ -6,4 +6,7 @@ The public method name is **Equivalence-Class Pricing-Based Branch-and-Price Alg
 - **Short name**: ECP-BP.
 - **Machine-readable identifier**: `ECP_BP`.
 
-The naming used in this release is a paper-facing metadata convention. It does not indicate a change to the mathematical model, objective, constraints, experimental instances, numerical settings, or reported computational outcomes.
+The naming used in this release is a paper-facing metadata convention.
+It does not indicate a change to the mathematical model, objective,
+constraints, experimental instances, numerical settings, or reported
+computational outcomes.
