@@ -2,7 +2,7 @@
 
 This repository is the data-only replication package for the manuscript *Risk-Averse Fleet Coordination under Driving-Behavior-Based Fleet Eligibility: Formulations and an Exact Solution Method*.
 
-ECP-BP denotes the exact focal method evaluated in the accompanying study.
+The focal method is the **Equivalence-Class Pricing-Based Branch-and-Price Algorithm (ECP-BP)**.
 
 ## Included datasets
 
